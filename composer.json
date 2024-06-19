@@ -1,0 +1,9 @@
+{
+    "name": "hexlet/code",
+    "type": "project",
+    "license": "1",
+    "minimum-stability": "stable",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.10"
+    }
+}
