@@ -9,7 +9,7 @@
 ***
 ### Setup
 ```
-git  clone https://github.com/RIP-Peroni/php-project-lvl3.git
+git  clone 
 ```
 ```
 cd php-project-lvl3
