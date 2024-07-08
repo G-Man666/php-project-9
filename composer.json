@@ -10,7 +10,7 @@
         "phpunit/phpunit": "^10.0"
     },
     "require": {
-        "php": "8.2.*",
+        "php": "^8.2 || ^8.3",
         "slim/slim": "^4.12",
         "slim/psr7": "^1.6",
         "slim/http": "^1.3",
