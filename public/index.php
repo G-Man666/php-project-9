@@ -8,7 +8,7 @@ use Psr\Http\Server\RequestHandlerInterface;
 use Slim\Middleware\MethodOverrideMiddleware;
 use Slim\Flash\Messages;
 use Slim\Views\PhpRenderer;
-use Bosun\PhpProject9\Connect;
+use App\Connect;
 use GuzzleHttp\Client;
 use Valitron\Validator;
 use Carbon\Carbon;
